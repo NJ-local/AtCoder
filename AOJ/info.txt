@@ -1,3 +1,0 @@
-AOJ
-ID:NJ
-password:macbook
